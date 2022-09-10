@@ -1,6 +1,6 @@
 # Layout Generator
 
-Simple layout generator based on [Ostadkar](https://ostadkar.ir/) task assignment
+Simple layout generator based on [Ostadkar](https://ostadkar.ir/) task assignment.
 
 ## Demo
 
